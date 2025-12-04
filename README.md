@@ -1,13 +1,7 @@
 # John-Wesley
 
 Profissional focado em DevOps, Cibersegurança e Programação, com experiência em automação, pipelines CI/CD, segurança de sistemas e desenvolvimento de scripts e aplicações. Trabalho com ferramentas como Docker, Kubernetes, GitHub Actions, Nmap e Python, sempre buscando criar soluções eficientes, seguras e escaláveis.
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
-
-###
 
 ###
 
@@ -24,4 +18,6 @@ Profissional focado em DevOps, Cibersegurança e Programação, com experiência
 </div>
 
 ###
+
+#🛠️ Tecnologias que utilizo
 
